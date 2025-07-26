@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://utsbi.org/wp-content/uploads/2024/02/cropped-Blue-Gold-Black-Classic-Modern-Building-Construction-Logo-2-768x768.png" alt="SBI Logo" width="150"/>
+<img src="https://github.com/utsbi/.github/blob/d2e7713c7e34b662a4225bb1b7210e4a331facc8/offical_full_logo_crop.gif" alt="SBI Logo" width="150"/>
 <h1><b>Sustainable Building Initiative (SBI) at UT Austin</b></h1>
 </div>
 
