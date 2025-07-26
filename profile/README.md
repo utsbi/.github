@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/utsbi/.github/blob/d2e7713c7e34b662a4225bb1b7210e4a331facc8/offical_full_logo_crop.gif" alt="SBI Logo" width="150"/>
+<img src="https://github.com/utsbi/.github/blob/bed6c1d3d159b4c56a665763f62929aad1e05df2/offical_full_logo_crop_long.gif" width="450" />
 <h1><b>Sustainable Building Initiative (SBI) at UT Austin</b></h1>
 </div>
 
